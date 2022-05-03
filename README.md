@@ -1,6 +1,6 @@
 # DDR : DreamDaemonRevolution
 
-TeamFlashSozai 様が製作された Flash ゲーム**「DreamDaemonRevolution」**をサルベージしました。
+TeamFlashSozai 様が製作された Flash ゲーム **「DreamDaemonRevolution」** をサルベージしました。
 
 __[Enter The GitHub Pages](https://neos21.github.io/ddr/)__
 
